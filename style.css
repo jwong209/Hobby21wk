@@ -1,20 +1,18 @@
 
 .jumbotron{
     background-color: darkmagenta !important;
+    background-image: url(images/swz01_anc_slider.jpg);
+    background-repeat: none;
+    background-size: cover;
+    background-position: center;
     color: white;
-    width: 900px;
+
     margin: 60px;
+    width: 1000px;
     height: 300px;
 }
-.topnav{
 
-}
 
-.card{
-    height: 500px;
-    width: 300px !important;
-   
-}
 .footer{
     background-color: darkgray;
     height: 250px;
